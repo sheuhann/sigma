@@ -3874,3 +3874,12 @@ https://www.sans.org/cyber-security-summit/archives
 https://defr0ggy.github.io/research/Abusing-Cloudflared-A-Proxy-Service-To-Host-Share-Applications/
 https://web.archive.org/web/20210511204621/https://github.com/AlsidOfficial/WSUSpendu
 https://web.archive.org/web/20230409194125/https://blog.menasec.net/2019/03/threat-hunting-25-scheduled-tasks-for.html
+https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
+https://ipurple.team/2024/09/10/browser-stored-credentials/
+https://learn.microsoft.com/en-us/windows/win32/shell/launch
+https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#atypical-travel
+https://www.reverse.it/sample/0b4ef455e385b750d9f90749f1467eaf00e46e8d6c2885c260e1b78211a51684?environmentId=100
+https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/ransomware-report-avaddon-and-new-techniques-emerge-industrial-sector-targeted
+https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd299871(v=ws.10)
